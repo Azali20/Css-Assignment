@@ -1,0 +1,47 @@
+body{
+  background-color: azure;
+  color: rgb(58, 35, 6);
+  font-family: 'roboto', sans-serif;
+  font-size: 14px;
+}
+.Amebo {
+    color: rgb(151, 142, 129);
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  color: #592525;
+}
+p { font-family: 'roboto', sans-serif; 
+
+}
+
+.topnav {
+  display: inline;
+  
+}
+
+li {
+  display: inline;
+  font-size: 14px;
+  margin: 1%;
+
+  
+}
+
+.topnav a {
+  text-decoration: none;
+  color: rgb(123, 7, 7);
+  
+}
+
+.topnav a:hover {
+  color: greenyellow
+}
+
+.topnav a:active {
+  color: red;
+}
